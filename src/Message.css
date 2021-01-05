@@ -1,0 +1,14 @@
+.message
+{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    color: white;
+}
+.user
+{
+    margin-left: auto;
+    background-color:lightblue !important;
+    color: white !important;
+
+}
